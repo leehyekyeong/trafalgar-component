@@ -6,7 +6,8 @@
 }
 
 .ServiceHeader {
-    width: 952px;
+    max-width: 952px;
+    padding: 0 20px;
     margin: 0 auto;
     text-align: center;
     margin-bottom: 80px;

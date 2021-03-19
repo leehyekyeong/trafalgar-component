@@ -3,7 +3,7 @@ import Service from './Service/Service';
 
 function App() {
   return (
-    <div className="Page">
+    <div className="App">
       <Service></Service>
     </div>
   );
