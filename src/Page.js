@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './Page.css';
 import Service from './Service/Service';
 
