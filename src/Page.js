@@ -4,9 +4,7 @@ import Service from './Service/Service';
 function Page() {
   return (
     <div className="Page">
-      <Service>
-
-      </Service>
+      <Service></Service>
     </div>
   );
 }
